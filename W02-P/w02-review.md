@@ -27,6 +27,9 @@
 우분투 디스크 마운트 하기
 https://bluexmas.tistory.com/632
 
+마크다운 작성법 (이미지 첨부하기)
+https://coding-factory.tistory.com/620
+
 
 ## 4. 회고
 \+ 마운트에 대해 운영체제 수업에서 이론만 배웠었는데 실습 해보고 다시 복습하니까 더 이해가 잘 됐다.  
