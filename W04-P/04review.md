@@ -4,7 +4,7 @@
 
 ### 유용한 프로그램 설치하기
 
-1. Skype
+#### 1. Skype
 - 스카이프 가장 인기있는 화상 채팅 응용 프로그램으로 인터뷰와 회의를 위해 많은 회사와 기업에서 사용됩니다. 
 Skype는 우분투에서 꼭 필요한 애플리케이션 중 하나라고 생각해서 설치했다.   
 특히, 코로나19로 인해 비대면 회의가 많아진 지금 유용하다.  
@@ -17,11 +17,11 @@ wget https://go.skype.com/skypeforlinux-64.deb
 ~~~  
 
 - 실행 화면
-- 
+
 ![image](https://user-images.githubusercontent.com/49148640/112719976-2fa53580-8f3f-11eb-9302-8faa13fc88e4.png)  
 
 
-2. VLC 미디어 재생기
+#### 2. VLC 미디어 재생기
 MS Windows용으로 만들어진 곰플레이어와 비슷하고 중요한 요소인 자막도 잘 지원한다.
 
 - 설치 방법  
@@ -36,11 +36,11 @@ MS Windows용으로 만들어진 곰플레이어와 비슷하고 중요한 요�
 ~~~
 
 - 실행 화면
-- 
+ 
 ![image](https://user-images.githubusercontent.com/49148640/112720044-801c9300-8f3f-11eb-86cd-a65f807ca674.png)  
 
 
-3. visual studiocode
+#### 3. visual studiocode
 - vd코드는 microsoft의 오픈 소스 코드 편집기로 가볍고 시작 속도가 빠른 장점이 있다.  
 또한, 내부의 많은 개발자들을 이용해 직접 제작한 확장팩을 제공하고 있더 신뢰 가능한 확장성이 있기때문에 설치했다.  
 
@@ -51,7 +51,7 @@ MS Windows용으로 만들어진 곰플레이어와 비슷하고 중요한 요�
 ~~~
 
 - 실행 화면
-- 
+ 
 ![image](https://user-images.githubusercontent.com/49148640/112719753-cc66d380-8f3d-11eb-8b26-393aa667806c.png)  
 
 
