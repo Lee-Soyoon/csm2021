@@ -40,7 +40,7 @@ MS Windows용으로 만들어진 곰플레이어와 비슷하고 중요한 요�
 ![image](https://user-images.githubusercontent.com/49148640/112720044-801c9300-8f3f-11eb-86cd-a65f807ca674.png)  
 
 
-#### 3. visual studiocode
+#### 3. visual studio code
 - vd코드는 microsoft의 오픈 소스 코드 편집기로 가볍고 시작 속도가 빠른 장점이 있다.  
 또한, 내부의 많은 개발자들을 이용해 직접 제작한 확장팩을 제공하고 있더 신뢰 가능한 확장성이 있기때문에 설치했다.  
 
