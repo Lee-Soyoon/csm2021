@@ -17,6 +17,7 @@ wget https://go.skype.com/skypeforlinux-64.deb
 ~~~  
 
 - 실행 화면
+- 
 ![image](https://user-images.githubusercontent.com/49148640/112719976-2fa53580-8f3f-11eb-9302-8faa13fc88e4.png)  
 
 
@@ -35,6 +36,7 @@ MS Windows용으로 만들어진 곰플레이어와 비슷하고 중요한 요�
 ~~~
 
 - 실행 화면
+- 
 ![image](https://user-images.githubusercontent.com/49148640/112720044-801c9300-8f3f-11eb-86cd-a65f807ca674.png)  
 
 
@@ -49,6 +51,7 @@ MS Windows용으로 만들어진 곰플레이어와 비슷하고 중요한 요�
 ~~~
 
 - 실행 화면
+- 
 ![image](https://user-images.githubusercontent.com/49148640/112719753-cc66d380-8f3d-11eb-8b26-393aa667806c.png)  
 
 
