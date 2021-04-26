@@ -34,13 +34,16 @@ RIAD1은 신뢰성과 가용성이 높고 복원이 간단하다. 따라서 중�
 #### crontab -e를 이용해 아래와 같이 수정했다.
 
 ~~~
-
+* 시간 설정  
+매주 일요일 오전 12시 이므로 => 00 (분) 2 (시) *(일) *(월) 7(요일)로 설정  
+* 명령어 뒤의 > /log  
+명령어가 실행된 후 실행 결과를 log파일에 기록하도록 설정  
 ~~~
 
 ![8-4](https://user-images.githubusercontent.com/49148640/116040679-48704a80-a6a7-11eb-80ec-89175ddd97a7.png)
 
 
-## 2. 새로 배운 내용
+## 2. 새로 배운 내용, 복슥
 
 
 ###  작업예약 
@@ -50,16 +53,16 @@ RIAD1은 신뢰성과 가용성이 높고 복원이 간단하다. 따라서 중�
 - /etc/crontab의 형식  
 ~~~
 
-
-
-- at 
+- crontab 사용 방법
 ~~~
-- 일회성 작업 예약  
-
-* 시간 자동 동기화
-- timedatectl set-ntp 0 (동기화 off)
-- timedatectl set-ntp 1 (동기화 on)
+* 예약작업 추가 및 수정   
+crontab -e  
+* 예약작업 리스트 확업  
+crontab -l  
+* 예약작업 시작  
+service crond start  
 ~~~
+
 
 
 
@@ -70,9 +73,13 @@ RIAD1은 신뢰성과 가용성이 높고 복원이 간단하다. 따라서 중�
 
 
 ## 4. 참고할 만한 내용  
+Linux  예약 작업 crontab  
 https://m.blog.naver.com/PostView.nhn?blogId=diceworld&logNo=220253702882&proxyReferer=https:%2F%2Fwww.google.com%2F
 
 
 
-## 5. 회고
 
+## 5. 회고
+/+ 교수님 말씀대로 나중에 따로 다시 해봐야지 해놓고 막상 실제로 복습한 적이 거의 없었다. 이번 기회에 반학기동안 배운 내용을 복습할 수 있어서 좋았다.  
+/- 
+/! 확실히 직접 문제를 만들기위해 고민하면서 더 잘 이해하게 된다. 앞으로도 직접 문제를 만들어보며 공부해야겠다.
