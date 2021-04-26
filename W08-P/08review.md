@@ -23,7 +23,12 @@ RIAD1은 신뢰성과 가용성이 높고 복원이 간단하다. 따라서 중�
 #### RAID1을 구성  
 ![8-3](https://user-images.githubusercontent.com/49148640/116040919-92f1c700-a6a7-11eb-93ce-8f13c1487491.png)
 
+
+
+
+
 ### 과제 2
+### cron 
 
 ![8-4](https://user-images.githubusercontent.com/49148640/116040679-48704a80-a6a7-11eb-80ec-89175ddd97a7.png)
 
@@ -58,8 +63,7 @@ RIAD1은 신뢰성과 가용성이 높고 복원이 간단하다. 따라서 중�
 
 
 ## 4. 참고할 만한 내용  
-bash scripting cheatsheet (배시 스크립트 유용한 명령어 사이트)  
-https://johyungen.tistory.com/302  
+https://m.blog.naver.com/PostView.nhn?blogId=diceworld&logNo=220253702882&proxyReferer=https:%2F%2Fwww.google.com%2F
 
 
 
