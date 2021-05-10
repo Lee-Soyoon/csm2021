@@ -4,6 +4,7 @@
 
 
   
+  ssh server   
 https://youtu.be/U1NnjvJQB6I (링크 오류로 인해 재업로드 했습니다!)
 
 
