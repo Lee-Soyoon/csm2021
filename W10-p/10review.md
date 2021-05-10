@@ -20,6 +20,20 @@ ip주소 - 중볻괴지 않는 주소
 => 사림이 기억하기 쉽도록 한 것이 도메인 네임  
 ~~~
 
+### 네트워크 : Client-Server Model
+~~~
+• Client-Server Model
+• 서비스 요청자인 client 와 서비스 자원의 제공자인 server 간에 작업을 분리해주는
+• 분산 애플리케이션 구조이자 네트워크 아키텍처
+~~~
+
+#### 종류
+• Web server (Apache 또는 IIS) - Web client (인터넷 익스플로러, 크롬, 사파리, 파이어폭스, 모질라 등)
+• Telnet server - Telnet client (telnet, PuTTY 등)
+• SSH server - SSH client (ssh, PuTTY 등)
+• VNC server - VNC client (vncviewer, TightVNC 등)
+• FTP server - FTP client (FileZilla, wsFTP, ftp, gftp 등)
+• Oralce server - Oracle client (sqlplus)
 
 
 ## 3. 문제가 발생한 부분과 해결 과정
