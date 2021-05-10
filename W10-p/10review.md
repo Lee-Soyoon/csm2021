@@ -1,7 +1,6 @@
 
 ## 1. 과제 
-
-동영상 첨부
+https://www.youtube.com/watch?v=EBQPSamH
 
 
 
