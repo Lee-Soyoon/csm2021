@@ -34,12 +34,12 @@ ip주소 - 중볻괴지 않는 주소
 ~~~
 
 #### 종류
-• Web server (Apache 또는 IIS) - Web client (인터넷 익스플로러, 크롬, 사파리, 파이어폭스, 모질라 등)
-• Telnet server - Telnet client (telnet, PuTTY 등)
-• SSH server - SSH client (ssh, PuTTY 등)
-• VNC server - VNC client (vncviewer, TightVNC 등)
-• FTP server - FTP client (FileZilla, wsFTP, ftp, gftp 등)
-• Oralce server - Oracle client (sqlplus)
+• Web server (Apache 또는 IIS) - Web client (인터넷 익스플로러, 크롬, 사파리, 파이어폭스, 모질라 등)  
+• Telnet server - Telnet client (telnet, PuTTY 등)  
+• SSH server - SSH client (ssh, PuTTY 등)  
+• VNC server - VNC client (vncviewer, TightVNC 등)  
+• FTP server - FTP client (FileZilla, wsFTP, ftp, gftp 등)   
+• Oralce server - Oracle client (sqlplus)  
 
 
 ## 3. 문제가 발생한 부분과 해결 과정
