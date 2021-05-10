@@ -1,6 +1,10 @@
 
 ## 1. 과제 
-https://youtu.be/U1NnjvJQB6I
+### telnet, ssh, vnc 중 하나를 선택하여 설치 및 설정하고, 원격으로 접속 되는 모습을 영상으로 촬영
+
+
+  
+https://youtu.be/U1NnjvJQB6I (링크 오류로 인해 재업로드 했습니다!)
 
 
 ## 2. 새로 배운 내용, 복습
