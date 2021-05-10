@@ -1,7 +1,6 @@
 
 ## 1. 과제 
-https://www.youtube.com/watch?v=EBQPSamH
-
+https://youtu.be/U1NnjvJQB6I
 
 
 ## 2. 새로 배운 내용, 복습
