@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/49148640/118504307-59702100-b766-11eb-
 
 
 ## 3. 문제가 발생한 부분과 해결 과정
-이번주 실습에서는 딱히 없었다.  
+ufw status에서 자꾸 서버가 inactive라고 뜨는데 아직 원인을 발견하지 못했지만 실습은 가능했다...  
 
 
 
