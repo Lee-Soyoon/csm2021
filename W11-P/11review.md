@@ -1,7 +1,9 @@
 
 ## 1. 과제 
-~~~
+
 ### 사용한 ip 3개  
+~~~
+
 www.sungshin.ac.kr -> 203.250.150.73  
 www.sookmyung.ac.kr -> 203.252.201.8  
 www.ewha.ac.kr -> 203.255.161.161  
