@@ -2,8 +2,7 @@
 
 영상 수정했습니다!
 
-https://user-images.githubusercontent.com/49148640/119424901-54e8d100-bd41-11eb-9463-bb61a7062899.mp4  
-
+https://user-images.githubusercontent.com/49148640/119425299-13a4f100-bd42-11eb-9b77-1b183fd628f9.mp4
 
 
 
