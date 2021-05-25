@@ -1,7 +1,6 @@
 ## 1. 과제 
 
-
-https://youtu.be/wVJ4Xr9-Y-
+영상 수정했습니다!
 
 
 
