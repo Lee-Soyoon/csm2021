@@ -1,5 +1,14 @@
 ## 1. 과제 
 
+# peng to peng
+![Client - VMware Workstation 16 Player (Non-commercial use only) 2021-05-25 오전 10_18_52](https://user-images.githubusercontent.com/49148640/119425706-d55c0180-bd42-11eb-9ea4-6d2da99033cd.png)
+
+# peng to soo
+![Client - VMware Workstation 16 Player (Non-commercial use only) 2021-05-25 오전 10_18_33](https://user-images.githubusercontent.com/49148640/119425730-dbea7900-bd42-11eb-9e09-50d03344ed5c.png)
+
+
+
+
 영상 수정했습니다!
 
 https://user-images.githubusercontent.com/49148640/119425299-13a4f100-bd42-11eb-9b77-1b183fd628f9.mp4
