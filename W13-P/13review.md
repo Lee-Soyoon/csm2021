@@ -4,8 +4,11 @@
 
 실습 과제 결과 확인
 
-https://user-images.githubusercontent.com/49148640/118504307-59702100-b766-11eb-84b3-e8e2386fa.mp4
+https://user-images.githubusercontent.com/49148640/120248936-1197e080-c2b4-11eb-9c32-fde53aadaf22.mp4
+
   
+    
+      
     
       
 
