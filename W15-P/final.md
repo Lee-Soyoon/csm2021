@@ -14,9 +14,12 @@
 
 #### cat /etc/passwd 를 이용해서도 확인할 수 있다.  
 
-https://youtu.be/1PapKPEePTM  
+
+
 https://user-images.githubusercontent.com/49148640/121887306-8b6aa800-cd51-11eb-9186-cfa7d9efd52c.mp4    
 
+
+https://youtu.be/1PapKPEePTM   
   
 ## •  미션 2번 : 재택근무가 가능하도록 서버에 원격 접속    
 
