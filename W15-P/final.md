@@ -104,3 +104,19 @@ https://youtu.be/DcDeLCGl0Ug
 https://user-images.githubusercontent.com/49148640/121891718-c91dff80-cd56-11eb-827a-ad8bd8ffc553.mp4
 
 https://youtu.be/HONbspg6ji0  
+
+
+### 미션 5번 수행 시 오류
+
+방화벽 정책까지 마친 후 서버b와 클라이언트에서 모두 apt update오류가 발생했다.  
+#### sudo rm / var/lib/apt/lists/* -vf  
+위 문장을 이용해 해결할 수 있었다.  
+![컴시관 5번 오류2](https://user-images.githubusercontent.com/49148640/121895254-f8367000-cd5a-11eb-87b5-ae591492026c.png)
+
+
+## 회고
+~~~
+기말과제를 통해서 총 다섯 주차의 실습을 복습할 수 있어서 좋았다. 
+특히 5번 방화벽 구축 문제는 14주차 실습 시에는 실패했던 실습인데 이번에 해결해서 뿌듯했다.  
+한주씩 나눠서 하지 않고 한번에 쭉 실습을 하니 한눈에 들어와서 이해하기 더 쉬웠다.  
+~~~
