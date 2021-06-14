@@ -4,13 +4,13 @@
 
   
 3명의 이름은 a,b,c로 지정했으며 root계정에서 adduser [사용자명]을 사용했다.  
-
-
-  
-    
+ <br/> 
+  <br/> 
+ <br/>    
 서버를 재부팅하면 3명의 사용자가 추가된 것을 볼 수 있다.  
-  
-    
+ <br/> 
+  <br/> 
+ <br/>
 ![컴시관 기말 1](https://user-images.githubusercontent.com/49148640/121887303-89a0e480-cd51-11eb-8eb8-eecdc268fdac.png)    
   
     
