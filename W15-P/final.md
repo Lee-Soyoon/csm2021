@@ -17,3 +17,22 @@
 https://user-images.githubusercontent.com/49148640/121887306-8b6aa800-cd51-11eb-9186-cfa7d9efd52c.mp4    
 
   
+### 미션 2번 : 재택근무가 가능하도록 서버에 원격 접속    
+
+#### ssh를 설치해 윈도우 터미널 창으로 원격 접속을 확인했다.  
+
+~~~
+apt install openssh-server  
+
+systemctl restart ssh  
+
+systemctl enable ssh  
+
+systemctl status ssh  
+  
+ufw allow 22/tcp
+~~~
+https://user-images.githubusercontent.com/49148640/121888471-ff598000-cd52-11eb-8246-a73523e8c84f.mp4    
+
+
+
