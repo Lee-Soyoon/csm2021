@@ -39,14 +39,14 @@ https://user-images.githubusercontent.com/49148640/121888471-ff598000-cd52-11eb-
   
 ## 미션 3번 : 스타트업 이름의 메일 서비스 별도 생성  
 <br/> 
-  <br/> 
-  #### 메일 서비스는 lee.ac.kr로 했으며  DNS 서버 (Server)에 bind9 패키지를 사용했다.  
-  #### 메일 서버에는 sendmail과 dovecot-pop3d 를 이용했다.   
-  <br/> 
-  <br/> <br/> 
-  <br/> 
-  #### 미션 3-1  
-  #### 서버의 기존에 있던 유저 ubuntu 계정으로 로그인한 후 유저 a,b,c에게 각각 메일을 보냈다.  
+  <br/>   
+ #### 메일 서비스는 lee.ac.kr로 했으며  DNS 서버 (Server)에 bind9 패키지를 사용했다.  
+ #### 메일 서버에는 sendmail과 dovecot-pop3d 를 이용했다.     
+  <br/>   
+  <br/> <br/>   
+  <br/>   
+ #### 미션 3-1    
+ #### 서버의 기존에 있던 유저 ubuntu 계정으로 로그인한 후 유저 a,b,c에게 각각 메일을 보냈다.    
     
       
 https://user-images.githubusercontent.com/49148640/121890011-d76b1c00-cd54-11eb-8e4b-657e80ea6e02.mp4  
