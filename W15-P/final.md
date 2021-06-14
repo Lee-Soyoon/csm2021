@@ -85,4 +85,5 @@ https://user-images.githubusercontent.com/49148640/121890822-bb1baf00-cd55-11eb-
 • 외부 컴퓨터가 방화벽 서버의 공인 IP로 웹 서비스를 요청할 때는 내부에 있는 웹 서버가 서비스 한다.  
 ~~~
 
+(용량 문제로 유투브 링크로 시청해주시면 감사하겠습니다!)  
 https://user-images.githubusercontent.com/49148640/121891718-c91dff80-cd56-11eb-827a-ad8bd8ffc553.mp4
