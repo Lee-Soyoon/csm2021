@@ -56,8 +56,9 @@ https://user-images.githubusercontent.com/49148640/121890011-d76b1c00-cd54-11eb-
   <br/> 
   <br/> 
   #### 서버의 유저 a계정에서 유저 c에게 메일을 보냈다.  
+  
 https://user-images.githubusercontent.com/49148640/121888892-7e4eb880-cd53-11eb-9f0d-208b00906c92.mp4  
 
 
 
-https://user-images.githubusercontent.com/49148640/121888899-80b11280-cd53-11eb-9ed9-cfa04c39577d.mp4
+
